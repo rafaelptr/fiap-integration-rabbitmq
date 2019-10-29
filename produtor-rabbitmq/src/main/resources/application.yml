@@ -1,0 +1,4 @@
+spring:
+    rabbitmq: 
+        host: "docker"
+        port: 5672

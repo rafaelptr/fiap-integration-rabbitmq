@@ -1,0 +1,3 @@
+br\com\fiap\integration\rabbitmq\Pessoa$PessoaBuilder.class
+br\com\fiap\integration\rabbitmq\Pessoa.class
+br\com\fiap\integration\rabbitmq\RabbitApplication.class

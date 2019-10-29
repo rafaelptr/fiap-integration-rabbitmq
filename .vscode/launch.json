@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProdutorApplication<fiap-integration-rabbitmq-produtor>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.fiap.integration.rabbitmq.ProdutorApplication",
+            "projectName": "fiap-integration-rabbitmq-produtor",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ConsumidorApplication<fiap-integration-rabbitmq-consumidor>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.fiap.integration.rabbitmq.ConsumidorApplication",
+            "projectName": "fiap-integration-rabbitmq-consumidor",
+            "args": ""
+        }
+    ]
+}
